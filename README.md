@@ -25,5 +25,7 @@ Pull requestler kabule dilir. Büyük değişikler için, lütüfen önce neyi d
 
 [MIT](https://opensource.org/licenses/MIT)
 
+Aşağıda @cengizcmataraci'dan çaldığım ekran görüntüsünü de görebilirsiniz ^^
+
 ![Cengiz'in ekran görüntüsünü çaldım](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 
